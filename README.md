@@ -55,9 +55,9 @@ padding: 1rem;
 ### Continued development
 
 - In future projects, I’d like to:
-  -Practice using rem/em instead of px for scalable design.
-  -Explore using utility-first CSS frameworks like Tailwind CSS.
-  -Add dark/light mode toggle for accessibility.
+- Practice using rem/em instead of px for scalable design.
+- Explore using utility-first CSS frameworks like Tailwind CSS.
+- Add dark/light mode toggle for accessibility.
 
 ## Author
 
