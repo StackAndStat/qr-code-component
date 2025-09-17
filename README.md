@@ -61,6 +61,6 @@ padding: 1rem;
 
 ## Author
 
-- Name - [Toheeb Salaudeen](https://www.your-site.com)
+- Name - Toheeb Salaudeen
 - Frontend Mentor - [StackAndStat](https://www.frontendmentor.io/profile/Roiwhiz)
 - Twitter - [@StackAndStat](https://x.com/StackAndStat)
